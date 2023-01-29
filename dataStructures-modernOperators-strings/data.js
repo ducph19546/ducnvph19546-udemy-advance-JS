@@ -17,9 +17,14 @@ const game = {
             'Keria'
         ]
     ],
-    MVPs: 'BaGa',
-    finalScore: '3:2'
+    MVPs: ['BaGa', 'Faker', 'Optimus'],
+    finalScore: '3:2',
+    kills: [
+        team1 = 20,
+        team2 = 30
+
+    ]
 
 }
 
-export { game }
+export default game 
